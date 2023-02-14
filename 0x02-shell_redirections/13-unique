@@ -1,2 +1,2 @@
 #!/bin/bash
-sort zoaka | uniq -u
+sort | uniq -u
