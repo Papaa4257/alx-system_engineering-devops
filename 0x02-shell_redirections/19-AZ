@@ -1,2 +1,2 @@
 #!/bin/bash
-grep A c zoaka | tr 'A' Z 'c' e 
+tr "Ac" "Ze"
